@@ -1,3 +1,4 @@
+DATABASE - KFC
 Nhân viên(MãNV, Họ Tên, Sđt, Email, Địa Chỉ, Lương Cơ Bản) 
 
 Khách Hàng(Mã KH, Tên KH, Địa Chỉ, Sđt, Email) 
